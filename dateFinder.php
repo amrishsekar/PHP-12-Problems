@@ -1,7 +1,7 @@
 <?php
 
 // Creates DateTime objects
-$datetime1 = date_create('17-09-2018');
+$datetime1 = date_create('17-09-2016');
 $datetime2 = date_create('25-09-2017');
 
 // Calculates the difference between DateTime objects
